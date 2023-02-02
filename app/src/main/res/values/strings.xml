@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Actividad UF3_5</string>
+    <string name="hello_world">¡ Hola Mundo!</string>
+    <string name="text_button">Cambiar Tamaño</string>
+    <string name="mn_java">Java</string>
+    <string name="mn_python">Python</string>
+    <string name="mn_Exit">Salir</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="greeting">¡Hola Mundo!</string>
+    <string name="message_exit">¿Estas seguro que deseas salir ?</string>
+    <string name="btn_accept">aceptar</string>
+    <string name="btn_cancel">cancelar</string>
+    <string name="txt_hint">tamaño de la fuente</string>
+    <string name="error_data">Debes introducir el Tamaño</string>
+    <string name="error_onAttach">Error on Attach</string>
+    <string name="txt_javaFragment">"public class HelloWorld {\n\tpublic static void main(String args[]) {\n\t\tSystem.out.println(\"¡Hola Mundo!\");\n\t}\n} "</string>
+    <string name="txt_pythonFragment">"#!/usr/bin/env python\n# -*- coding: utf-8 -*-\nprint(\"¡Hola mundo!\") "</string>
+    <string name="title_dialog">Indicar Tamaño</string>
+</resources>
